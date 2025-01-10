@@ -1,12 +1,7 @@
 👋 Hi, I’m @SIKKENDARBASHAS
-👀 I’m interested in full-stack development, AI, and open-source projects.
-🌱 I’m currently learning JavaScript, Python, React, and Node.js.
-💞️ I’m looking to collaborate on innovative software projects and open-source contributions.
-📫 How to reach me: nowfil6383@gmail.com.
-😄 Pronouns: he/him.
-⚡ Fun fact: I love solving puzzles and enjoy learning about new technologies.
-
-<!---
-SIKKENDARBASHAS/SIKKENDARBASHAS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m passionate about web development and enjoy exploring both static and dynamic technologies.
+🌱 I have experience in static platforms like Wix Studios and WordPress, as well as dynamic languages and frameworks including HTML, CSS, JavaScript, Java, MySQL, and React Native.
+💞️ I’m looking to collaborate on innovative projects where I can contribute my skills and grow as a developer.
+📫 How to reach me: sikkendar2003@gmail.com
+😄 Pronouns: he/him
+⚡ Fun fact: I love solving puzzles and enjoy working on creative coding challenges.
